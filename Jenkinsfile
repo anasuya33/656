@@ -19,7 +19,7 @@ sh ' git clone https://github.com/RavitejaAdepudi/javawar.git'
 {
 steps
 {
-sh 'mvn -f /var/lib/jenkins/workspace/656/javawar/pom.xml install'
+sh 'mvn -f /var/lib/jenkins/workspace/abcd4/javawar/pom.xml install'
 }
 }
 }
