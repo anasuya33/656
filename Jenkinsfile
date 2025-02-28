@@ -27,7 +27,7 @@ sh ' export MAVEN_HOME=/opt/apache-maven-3.9.5 && export PATH=$PATH:/opt/apache-
 {
 steps
 {
-sh ' cp -R  /var/lib/jenkins/workspace/abcd4/javawar/target/*.war /opt//opt/apache-tomcat-9.0.99/webapps '
+sh ' cp -R  /var/lib/jenkins/workspace/abcd4/javawar/target/*.war /opt/apache-tomcat-9.0.99/webapps '
 }
 }
 }
