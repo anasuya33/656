@@ -31,3 +31,4 @@ sh ' cp -R  /var/lib/jenkins/workspace/abcd4/javawar/target/*.war /opt//opt/apac
 }
 }
 }
+}
